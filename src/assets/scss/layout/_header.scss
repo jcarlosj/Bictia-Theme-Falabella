@@ -1,9 +1,12 @@
 .header {
+    border-top: 3px solid $color__border_header_top;
+
     &-top {
         background-color: $color__background_header_top;
     }
     &-middle {
         background-color: $color__background_header_middle;
+        border-bottom: 2px solid $color__border_header_middle_bottom;
     }
     &-bottom {
         background-color: $color__background_header_bottom;
