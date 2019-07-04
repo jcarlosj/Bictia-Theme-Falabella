@@ -1,0 +1,27 @@
+{
+  "name": "theme-farabella",
+  "version": "1.0.0",
+  "description": "Theme Farabella usando Bootstrap 4, Gulp, Sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bootstrap-4",
+    "gulp",
+    "sass"
+  ],
+  "author": "Juan Carlos Jiménez Gutiérrez <jcjimenez29@misena.edu.co>",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-cache": "^1.1.2",
+    "gulp-imagemin": "^6.0.0",
+    "gulp-sass": "^4.0.2"
+  }
+}
