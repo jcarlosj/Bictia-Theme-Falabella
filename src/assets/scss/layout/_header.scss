@@ -1,0 +1,11 @@
+.header {
+    &-top {
+        background-color: $color__background_header_top;
+    }
+    &-middle {
+        background-color: $color__background_header_middle;
+    }
+    &-bottom {
+        background-color: $color__background_header_bottom;
+    }
+}
